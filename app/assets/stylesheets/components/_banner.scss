@@ -1,0 +1,29 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.home-banner {
+  background-image: url('https://media.slbenfica.pt/-/media/benficadp/images/departamento-de-comunicacao/2021/futebol/equipa-a/competicoes/liga-dos-campeoes/play-off/benfica-psv-1-mao-play-off/jogo/golo-benfica-new.jpg?h=725&w=1208&v=637662739550000000&hash=AF01CEFBC12FCB84A172058501BDF457');
+  background-size: cover;
+  height: 100vh;
+  color: #eee;
+  text-align: center;
+  padding-top: 40vh;
+}
